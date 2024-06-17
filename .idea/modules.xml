@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fresher.iml" filepath="$PROJECT_DIR$/.idea/fresher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-cloud-service/my-cloud-service.iml" filepath="$PROJECT_DIR$/my-cloud-service/my-cloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/za-project/za-project.iml" filepath="$PROJECT_DIR$/za-project/za-project.iml" />
+    </modules>
+  </component>
+</project>

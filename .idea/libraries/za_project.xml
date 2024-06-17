@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="za-project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/za-project/dist/za-project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

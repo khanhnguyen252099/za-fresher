@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-secure-sm-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/httpcore-nio-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-dataformat-cbor-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-sandbox-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-highlighter-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-queryparser-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-spatial-extras-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-rest-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jopt-simple-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-misc-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-spatial3d-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-core-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/HdrHistogram-2.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/log4j-api-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/parent-join-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-core-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/rank-eval-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-memory-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/t-digest-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/joda-time-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/ow2-cdi-1.0-spec-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/snakeyaml-1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-queries-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-backward-codecs-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/hppc-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-join-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-x-content-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/ow2-atinject-1.0-spec-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-analyzers-common-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/httpclient-4.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-suggest-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-cli-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jbosssx-client-3.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lucene-grouping-8.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-geo-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-rest-high-level-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/errai-javax-enterprise-4.9.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/lang-mustache-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-dataformat-yaml-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/compiler-0.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/aggs-matrix-stats-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/mapper-extras-client-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/elasticsearch-core-7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/httpcore-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-cloud-service/WebServer/lib/jackson-dataformat-smile-2.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

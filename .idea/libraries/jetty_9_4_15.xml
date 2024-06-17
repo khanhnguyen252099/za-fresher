@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="jetty-9.4.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-server-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-nosql-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-xml-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-continuation-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-http-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-infinispan-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-servlet-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-unixsocket-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-quickstart-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-schemas-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-webapp-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-util-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/cdi-servlet-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-jmx-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-memcached-sessions-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-deploy-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-alpn-conscrypt-server-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-alpn-openjdk8-server-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-patch-9.4.15.v20190215-1.0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-gcloud-session-manager-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-jaas-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-io-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-jaspi-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-rewrite-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-client-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-hazelcast-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/cdi-2-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/alpn-api-1.1.3.v20160715.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-annotations-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-jndi-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-alpn-server-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/cdi-core-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-servlets-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-security-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-proxy-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-plus-9.4.15.v20190215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/za-project/lib/jetty-9.4.15/jetty-alpn-java-server-9.4.15.v20190215.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
